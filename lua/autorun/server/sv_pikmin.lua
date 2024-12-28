@@ -1,0 +1,1 @@
+include("pikmin_server.lua")

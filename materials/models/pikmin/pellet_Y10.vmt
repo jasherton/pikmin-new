@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Pikmin/Pellet_Y10"
+	"$bumpmap" "models\pikmin/flat2"
+	"$halflambert" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongexponent" 50
+	"$phongexponenttexture" "models/pikmin/flat2"
+	"$phongboost"	"20"
+	"$phongfresnelranges"	"[0.03 0.2 0.2]"
+}

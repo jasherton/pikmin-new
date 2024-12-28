@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pikmin/captainw"
+	"$additive" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nolod" "1"
+	"$selfillum" "1"
+}

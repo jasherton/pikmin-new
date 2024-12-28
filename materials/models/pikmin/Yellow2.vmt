@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Pikmin/white"
+	"$color2" "{229 170 80}"
+	"$bumpmap" "models\pikmin/flat2"
+	"$halflambert" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongexponent" 20
+	"$phongexponenttexture" "models/pikmin/flat2"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.05 0.2 0.0]"
+}

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pikmin/captainw"
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		1 0 0
+		}
+		Clamp
+		{
+			min 0.15
+			max 0.90
+			srcVar1 "$color2"
+			resultVar "$color2"
+		}
+	}
+}

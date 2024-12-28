@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Pikmin/flat"
+	"$bumpmap" "models\pikmin/flat2"
+	"$alphatest" 1
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+}

@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+	"$baseTexture" "models\pikmin\WhitSS00"
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 1
+	"$model" 1
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pikmin/white"
+	"$color2" "{212 191 80}"
+	"$nodecal" 1
+}

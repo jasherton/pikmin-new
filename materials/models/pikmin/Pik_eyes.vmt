@@ -1,0 +1,8 @@
+"unLitGeneric"
+{
+	"$baseTexture" "models\Pikmin/Pik_eyes"
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 1
+	"$model" 1
+}
